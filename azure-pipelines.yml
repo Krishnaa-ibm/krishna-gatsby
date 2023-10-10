@@ -16,6 +16,5 @@ steps:
 
 - script: |
     npm install
-    npm install gh-pages --save-dev
-    npm run deploy
+    npm run build
   displayName: 'npm install and dev'
