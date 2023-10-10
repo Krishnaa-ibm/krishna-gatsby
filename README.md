@@ -34,3 +34,4 @@ You’re also free to make your own components and use them in your MDX pages.
 # gastby-git
 # krishna-gatsby
 # krishna-gatsby
+# krishna-gatsby
