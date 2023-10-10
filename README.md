@@ -33,3 +33,4 @@ You’re also free to make your own components and use them in your MDX pages.
 [Check out the docs!](https://gatsby-theme-carbon.now.sh)
 # gastby-git
 # krishna-gatsby
+# krishna-gatsby
